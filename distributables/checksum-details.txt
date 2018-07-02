@@ -1,0 +1,22 @@
+$ 
+59973096/58M  marketcoind
+10110352/9.7M marketcoin-qt
+21332480/21M  marketcoin-qt.exe
+
+$ /c/bin/fciv.exe marketcoind
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+722c70bf6d386d8356cbe9c6176cb34e marketcoind
+
+$ /c/bin/fciv.exe marketcoin-qt.exe
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+93dd5f6d058f5d3deb271344b316da60 marketcoin-qt.exe
+
+$ /c/bin/fciv.exe marketcoin-qt
+//
+// File Checksum Integrity Verifier version 2.05.
+//
+32c79ff31f4b55b58eb7291b2603622f marketcoin-qt

@@ -2,7 +2,7 @@ Marketcoin (XMQ) – Mine on CPU only
 ====================================
 http://www.qubitmarketcoin.com
 
-Copyright (c) 2009-2014 Bitcoin Developers, Copyright (c) 2011-2014 Litecoin Developers, Copyright (c) 2018 Marketcoin Developers
+Copyright (c) 2018-2019 Teodor Cotruta, Copyright (c) 2009-2014 Bitcoin Developers, Copyright (c) 2011-2014 Litecoin Developers
 
 Everyone can mine it !!! with CPU, 4GB RAM, 2 chores 1.5GHz
 ------------------------------------------------------------
